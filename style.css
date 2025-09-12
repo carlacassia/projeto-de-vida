@@ -25,7 +25,6 @@ titulo-principal{
     font-size: 32px;
 }
 
-
 titulo-principal span {
     color: var(--verde);
 }
@@ -40,5 +39,9 @@ botao {
     width: 100%;
     border-bottom: 4px solid var(--botom-ativo);
     border-left: 2px solid var(--botom-ativo);
+    boter-right: 2px solid var (--botao-inativo);
     border-top: nome;
+}
+botoes {
+    display: block;
 }
